@@ -1,0 +1,33 @@
+.ti {
+    width: 750px;
+    height: 22px;
+    background-color: #a9a9a9;
+    color: white;
+    padding: 5px;
+    margin: 40px auto 0 auto;
+}
+
+.new {
+    width: 726px;
+    margin: 0 auto 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.item {
+    width: 200px;
+    height: 230px;
+    margin: 20px;
+    color: #a9a9a9;
+    /* color: #b8860b; */
+    font-size: 80%;
+}
+
+.moji {
+    color: #b8860b;
+}
+
+.nedan {
+    color: black;
+}
