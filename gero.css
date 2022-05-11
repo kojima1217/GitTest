@@ -1,0 +1,62 @@
+#bo {
+    width: 800px;
+    margin: 50px auto 0 auto;
+}
+
+.midasi {
+    background-color: #ff7f50;
+}
+
+.tit {
+    margin-left: 10px;
+    color: white;
+}
+
+.hondai {
+    height: 300px;
+    background-color: #ffffe0;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.shasin {
+    width: 260px;
+    margin: 0 0 0 20px;
+    padding-top: 20px;
+}
+
+.shasin2 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.ran {
+    width: 500px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.ryokan {
+    height: 20px;
+    margin-left: 20px;
+    color: blue;
+}
+
+.ryoukin {
+    height: 20px;
+    margin: 20px 0 0 100px;
+}
+
+.shoukai {
+    padding-top: 0;
+    margin: 20px 0 20px 20px;
+}
+
+.akusesu {
+    padding-top: 0;
+    margin: 20px 0 20px 20px;
+}
+
+
+
